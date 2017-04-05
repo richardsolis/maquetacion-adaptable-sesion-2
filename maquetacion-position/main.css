@@ -1,0 +1,12 @@
+.nav ul{
+  font-size: 0;
+  list-style: none;
+  padding: 0;
+}
+.nav ul li{
+  background: #f4f5f6;
+  display: inline-block;
+  padding: 10px;
+  font-size: 1rem;
+  vertical-align: middle;
+}
